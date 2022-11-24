@@ -43,13 +43,3 @@ def com_adivina(x):
 
 adivina(valores)
 com_adivina(valores)
-
-#print()
-
-#while contador1 and contador2 != 50:
-   
-    
-    #if contador1 == 50:
-       # print(f"La computadora ha ganado con {contador2} intentos")
-    #elif contador2 == 50:
-       # print(f"Ganaste con {contador1} intentos")
